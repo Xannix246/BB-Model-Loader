@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alber\\source\\repos\\testmod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5732F23-EAAE-4A86-8D67-BC4E8D3BCD61}|testmod.csproj|c:\\users\\alber\\source\\repos\\testmod\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5732F23-EAAE-4A86-8D67-BC4E8D3BCD61}|testmod.csproj|solutionrelative:core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\testmod\\Core.cs",
+              "RelativeDocumentMoniker": "Core.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\testmod\\Core.cs",
+              "RelativeToolTip": "Core.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAawCUAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:40:34.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
